@@ -3,4 +3,5 @@
 ## platane
 ## sapin
 ## épicéa
+## balèze
 
